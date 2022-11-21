@@ -220,7 +220,7 @@ namespace LabLinq22
         // TODO 6.2 
         // Использование лямбда-выражений
         // https://learn.microsoft.com/ru-ru/dotnet/csharp/language-reference/operators/lambda-expressions
-        // https://www.williamspublishing.com/PDF/978-5-8459-1909-0/part.pdf
+        // https://www.williamspublishing.com/PDF/978-5-8459-1909-0/part.pdf 
 
 
         public int Query62Example()
